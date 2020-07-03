@@ -6,7 +6,7 @@ Proceso CalcularMedia
 	num2<-0;
 	num3<-0;
 	media<-0;
-	Escribir " escribir numero ";
+	Escribir " escribir numero      ";
 	Leer num1;
 	
 	Escribir " escribir numero ";
